@@ -1,12 +1,13 @@
 {
     "0_TESTSAMPLE": {
         "name": "0_TESTSAMPLE",
-
+        
+        "id": "0"，
         "desc": "测试样本",
-        "homebg_lt": 1 
-        "homebg_lb": 1 
-        "homebg_rt": 1
-        "homebg_rb": 1  
+        "homebg_lt": 1，
+        "homebg_lb": 1， 
+        "homebg_rt": 1，
+        "homebg_rb": 1，
         "status": 1
     }
 }
