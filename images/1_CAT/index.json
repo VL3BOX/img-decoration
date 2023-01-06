@@ -1,0 +1,12 @@
+{
+    "1_CAT": {
+        "name": "1_CAT",
+
+        "desc": "猫猫日",
+        "textcolor": #494038,
+        "homebg_lt": 1,
+        "homebg_lb": 0, 
+        "homebg_rt": 0,
+        "homebg_rb": 0,  
+    }
+}
