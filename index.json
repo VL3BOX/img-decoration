@@ -4,7 +4,7 @@
         
         "id": "0",
         "desc": "测试样本",
-        "textcolor": #FFFFFF,
+        "textcolor": #FFFFFF ,
         "homebg_lt": 1,
         "homebg_lb": 0, 
         "homebg_rt": 0,
@@ -15,7 +15,7 @@
         "name": "1_CAT",
 
         "desc": "猫猫日",
-        "textcolor": #494038,
+        "textcolor": #494038 ,
         "homebg_lt": 1,
         "homebg_lb": 0, 
         "homebg_rt": 0,
