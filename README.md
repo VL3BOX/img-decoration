@@ -11,3 +11,13 @@ x_preview|对应以上项目预览，其中homebanner_preview用于主题整体�
 
 主题选择入口为 个人中心-资料设置-选择主题
 文件名，文件夹拟定为：`序号_装饰主题/位置KEY`，如：`1_CYBERPUNK/sidebar.png`
+
+json字段|说明|尺寸大小
+---|---|---
+textcolor|名字颜色|0则默认颜色
+buttoncolor|关注TA按钮颜色|0则默认颜色
+highlightcolor|高亮文本颜色（粉丝数，作品类别等）|0则默认颜色
+homebg_lt|左上背景锚点|1开0关
+homebg_rt|右上背景锚点|1开0关
+homebg_lb|左下背景锚点|1开0关
+homebg_rb|右下背景锚点|1开0关
