@@ -12,6 +12,7 @@ x_preview|对应以上项目预览，其中homebanner_preview用于主题整体�
 
 主题选择入口为 个人中心-资料设置-选择主题
 文件名，文件夹拟定为：`序号_装饰主题/位置KEY`，如：`1_CYBERPUNK/sidebar.png`
+
 背景四个锚点分别对应`lt` `rt` `lb` `rb`
 
 json字段|说明|尺寸大小
