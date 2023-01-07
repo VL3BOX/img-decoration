@@ -8,7 +8,7 @@ homebg_锚点@2x|个人主页背景，对应3840屏(锚点：lt左上rt右上lb�
 homebanner|个人主页顶部横幅。|2200x440
 avatar|付费头像框（暂时搁置）|1680*1680
 calendar|首页日历|固定PSD模板
-x_preview|对应以上项目预览，其中homebanner_preview用于主题整体预览（包含积分商城）|500x500
+x_preview|对应以上项目预览，其中homebanner_preview用于主题整体预览（包含积分商城），背景只需要一张homebg_preview|500x500
 
 主题选择入口为 个人中心-资料设置-选择主题
 文件名，文件夹拟定为：`序号_装饰主题/位置KEY`，如：`1_CYBERPUNK/sidebar.png`
