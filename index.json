@@ -33,9 +33,9 @@
 
         "desc": "赛博·Omega",
         "textcolor": "#FFFFFF",
-        "buttoncolor": "#CA1F41",
+        "buttoncolor": "#FF2752",
         "buttontextcolor": "#FFFFFF",
-        "highlightcolor": "#CA1F41",
+        "highlightcolor": "#FF2752",
         "homebg_lt": 1,
         "homebg_lb": 1, 
         "homebg_rt": 1,
