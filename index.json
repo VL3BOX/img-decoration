@@ -3,15 +3,15 @@
         "name": "0_TESTSAMPLE",
         
         "id": "0",
-        "desc": "测试样本",
+        "desc": "默认",
         "textcolor": 0,
-        "buttoncolor": 0,
+        "buttoncolor": #24292e,
         "buttontextcolor": "#FFFFFF",
         "highlightcolor": 0,
-        "homebg_lt": 1,
+        "homebg_lt": 0,
         "homebg_lb": 0, 
         "homebg_rt": 0,
-        "homebg_rb": 1,
+        "homebg_rb": 0,
         "status": 1
     },
     "1_CAT": {
