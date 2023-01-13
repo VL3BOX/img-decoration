@@ -51,7 +51,7 @@
         "buttontextcolor": "#FFFFFF",
         "highlightcolor": "#A26B56",
         "homebg_lt": 0,
-        "homebg_lb": 0, 
+        "homebg_lb": 1, 
         "homebg_rt": 0,
         "homebg_rb": 1, 
         "status": 1
