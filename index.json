@@ -1,7 +1,6 @@
 {
     "0_TESTSAMPLE": {
         "name": "0_TESTSAMPLE",
-        
         "id": "0",
         "desc": "默认",
         "textcolor": 0,
@@ -9,51 +8,61 @@
         "buttontextcolor": "#FFFFFF",
         "highlightcolor": 0,
         "homebg_lt": 0,
-        "homebg_lb": 0, 
+        "homebg_lb": 0,
         "homebg_rt": 0,
         "homebg_rb": 0,
-        "status": 1
+        "status": 0
     },
     "1_CAT": {
         "name": "1_CAT",
-
         "desc": "猫猫日",
         "textcolor": "#494038",
         "buttoncolor": "#494038",
         "buttontextcolor": "#FFFFFF",
         "highlightcolor": "#DB9658",
         "homebg_lt": 0,
-        "homebg_lb": 1, 
+        "homebg_lb": 1,
         "homebg_rt": 0,
-        "homebg_rb": 1, 
+        "homebg_rb": 1,
         "status": 1
     },
     "2_CYBERPUNK": {
         "name": "2_CYBERPUNK",
-
         "desc": "赛博·Omega",
         "textcolor": "#FFFFFF",
         "buttoncolor": "#FF2752",
         "buttontextcolor": "#FFFFFF",
         "highlightcolor": "#FF2752",
         "homebg_lt": 1,
-        "homebg_lb": 1, 
+        "homebg_lb": 1,
         "homebg_rt": 1,
-        "homebg_rb": 1, 
+        "homebg_rb": 1,
         "status": 1
     },
     "3_DEMIE": {
         "name": "3_DEMIE",
-
         "desc": "来年元夕",
         "textcolor": "#FFFFFF",
         "buttoncolor": "#A26B56",
         "buttontextcolor": "#FFFFFF",
         "highlightcolor": "#A26B56",
         "homebg_lt": 0,
-        "homebg_lb": 1, 
+        "homebg_lb": 1,
         "homebg_rt": 0,
-        "homebg_rb": 1, 
+        "homebg_rb": 1,
+        "status": 1
+    },
+    "4_CHANGGE": {
+        "name": "4_CHANGGE",
+        "desc": "长歌主题",
+        "textcolor": 0,
+        "buttoncolor": 0,
+        "buttontextcolor": 0,
+        "highlightcolor": 0,
+        "homebg_lt": 0,
+        "homebg_lb": 0,
+        "homebg_rt": 0,
+        "homebg_rb": 1,
         "status": 1
     }
 }
