@@ -64,5 +64,18 @@
         "homebg_rt": 0,
         "homebg_rb": 1,
         "status": 1
+    },
+    "5_YYNH&LYGG": {
+        "name": "5_YYNH&LYGG",
+        "desc": "银羽南徊&流云孤光",
+        "textcolor": "#FFFFFF",
+        "buttoncolor": "#4a4846",
+        "buttontextcolor": "#fefefe",
+        "highlightcolor": "#4a4846",
+        "homebg_lt": 1,
+        "homebg_lb": 0,
+        "homebg_rt": 0,
+        "homebg_rb": 0,
+        "status": 1
     }
 }
