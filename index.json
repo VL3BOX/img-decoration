@@ -83,5 +83,19 @@
         "homebg_rt": 0,
         "homebg_rb": 0,
         "status": 1
+    },
+    "6_DEMIE2": {
+        "name": "6_DEMIE2",
+        "desc": "眉绝巅·韶华",
+        "textcolor": "#FFFFFF",
+        "buttoncolor": "#34472F",
+        "buttontextcolor": "#FFFFFF",
+        "highlightcolor": "#34472F",
+        "avatar":0,  
+        "homebg_lt": 0,
+        "homebg_lb": 0,
+        "homebg_rt": 0,
+        "homebg_rb": 1,
+        "status": 1
     }
 }
