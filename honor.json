@@ -7,20 +7,23 @@
             [30, 9999, "第{ranking}号"]
         ],
         "suffix": "妖秀",
-        "color":"#6a0021"
+        "color":"#6a0021",
+        "ext":"png"
     },
     "2023yaoxiu_mall1": {
         "year": 2023,
         "prefix": "魔盒",
         "ranking": [],
         "suffix": "云端伪妖秀",
-        "color":"#6a0021"
+        "color":"#6a0021",
+        "ext":"png"
     },
     "2023yaoxiu_mall2": {
         "year": 2023,
         "prefix": "魔盒",
         "ranking": [],
         "suffix": "云端真妖秀",
-        "color":"#6a0021"
-    },
+        "color":"#6a0021",
+        "ext":"png"
+    }
 }
