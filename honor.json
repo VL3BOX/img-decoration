@@ -1,4 +1,12 @@
 {
+    "2023jdt7": {
+        "year": 2023,
+        "prefix": "第七届秘境百强榜",
+        "ranking": [],
+        "suffix": "团队成员",
+        "color":"#fff",
+        "ext":"png"
+    },
     "2023yaoxiu": {
         "year": 2023,
         "prefix": "{server}",
