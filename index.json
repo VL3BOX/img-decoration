@@ -98,4 +98,18 @@
         "homebg_rb": 1,
         "status": 1
     }
+        "rank_7": {
+        "name": "rank_7",
+        "desc": "第七届·秘境百强榜",
+        "textcolor": "#000000",
+        "buttoncolor": "#AE1906",
+        "buttontextcolor": "#FFFFFF",
+        "highlightcolor": "#AE1906",
+        "avatar":1,  
+        "homebg_lt": 1,
+        "homebg_lb": 0,
+        "homebg_rt": 0,
+        "homebg_rb": 0,
+        "status": 1
+    }
 }
