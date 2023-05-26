@@ -111,5 +111,19 @@
         "homebg_rt": 0,
         "homebg_rb": 0,
         "status": 1
+    },
+    "btyz_bybtyzdz_8": {
+        "name": "btyz_bybtyzdz_8",
+        "desc": "药宗弟子",
+        "textcolor": "#FFFFFF",
+        "buttoncolor": "#0F8792",
+        "buttontextcolor": "#A6CBD2",
+        "highlightcolor": "#0F8792",
+        "avatar":0,  
+        "homebg_lt": 1,
+        "homebg_lb": 0,
+        "homebg_rt": 0,
+        "homebg_rb": 0,
+        "status": 1
     }
 }
