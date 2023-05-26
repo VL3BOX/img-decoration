@@ -125,5 +125,19 @@
         "homebg_rt": 0,
         "homebg_rb": 0,
         "status": 1
+    },
+    "dianxinghe": {
+        "name": "dianxinghe",
+        "desc": "点星河",
+        "textcolor": "#000000",
+        "buttoncolor": "#81B3FD",
+        "buttontextcolor": "#FFFFFF",
+        "highlightcolor": "#AD97CB",
+        "avatar":1,  
+        "homebg_lt": 1,
+        "homebg_lb": 1,
+        "homebg_rt": 1,
+        "homebg_rb": 1,
+        "status": 1
     }
 }
