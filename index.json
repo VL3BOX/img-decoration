@@ -139,5 +139,19 @@
         "homebg_rt": 1,
         "homebg_rb": 1,
         "status": 1
+    },
+    "zhongqiu2023": {
+        "name": "zhongqiu2023",
+        "desc": "中秋2023",
+        "textcolor": "#FFFFFF",
+        "buttoncolor": "#D067A1",
+        "buttontextcolor": "#FFFFFF",
+        "highlightcolor": "#D067A1",
+        "avatar":1,  
+        "homebg_lt": 0,
+        "homebg_lb": 0,
+        "homebg_rt": 0,
+        "homebg_rb": 1,
+        "status": 1
     }
 }
