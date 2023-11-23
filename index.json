@@ -153,5 +153,19 @@
         "homebg_rt": 0,
         "homebg_rb": 1,
         "status": 1
+    },
+    "CYBERPUNK_2023": {
+        "name": "CYBERPUNK_2023",
+        "desc": "赛博·Delta",
+        "textcolor": "#24292e",
+        "buttoncolor": "#FEED01",
+        "buttontextcolor": "#000000",
+        "highlightcolor": "#000000",
+        "avatar":0,  
+        "homebg_lt": 1,
+        "homebg_lb": 0,
+        "homebg_rt": 1,
+        "homebg_rb": 1,
+        "status": 1
     }
 }
