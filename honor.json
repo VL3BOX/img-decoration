@@ -33,5 +33,13 @@
         "suffix": "云端真妖秀",
         "color":"#6a0021",
         "ext":"png"
+    },
+    "wldgdbm": {
+        "year": 2023,
+        "prefix": "魔盒",
+        "ranking": [],
+        "suffix": "万灵当歌数据大师",
+        "color":"#6a0021",
+        "ext":"png"
     }
 }
