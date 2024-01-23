@@ -167,5 +167,19 @@
         "homebg_rt": 1,
         "homebg_rb": 1,
         "status": 1
+    },
+    "dragon2024": {
+        "name": "dragon2024",
+        "desc": "2024龙年限定",
+        "textcolor": "#000000",
+        "buttoncolor": "#AE1906",
+        "buttontextcolor": "#000000",
+        "highlightcolor": "#000000",
+        "avatar":0,  
+        "homebg_lt": 1,
+        "homebg_lb": 0,
+        "homebg_rt": 1,
+        "homebg_rb": 1,
+        "status": 1
     }
 }
