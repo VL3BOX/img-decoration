@@ -1,53 +1,59 @@
 {
-    "2023jdt7": {
-        "year": 2023,
-        "prefix": "第七届秘境百强榜",
-        "ranking": [],
-        "suffix": "团队成员",
-        "color":"#fff",
-        "ext":"png"
-    },
-    "2023yaoxiu": {
-        "year": 2023,
-        "prefix": "{server}",
-        "ranking": [
-            [0, 30, "首席"],
-            [30, 9999, "第{ranking}号"]
-        ],
-        "suffix": "妖秀",
-        "color":"#6a0021",
-        "ext":"png"
-    },
-    "2023yaoxiu_mall1": {
-        "year": 2023,
-        "prefix": "魔盒",
-        "ranking": [],
-        "suffix": "云端伪妖秀",
-        "color":"#6a0021",
-        "ext":"png"
-    },
-    "2023yaoxiu_mall2": {
-        "year": 2023,
-        "prefix": "魔盒",
-        "ranking": [],
-        "suffix": "云端真妖秀",
-        "color":"#6a0021",
-        "ext":"png"
-    },
-    "wldgdbm": {
-        "year": 2023,
-        "prefix": "魔盒",
-        "ranking": [],
-        "suffix": "万灵当歌数据大师",
-        "color":"#6a0021",
-        "ext":"png"
-    },
-    "2023fengyuelu": {
-        "year": 2023,
-        "prefix": "魔盒",
-        "ranking": [],
-        "suffix": "茶馆风月录",
-        "color":"#6a0021",
-        "ext":"png"
-    }
+	"2023jdt7": {
+		"year": 2023,
+		"prefix": "第七届秘境百强榜",
+		"ranking": [],
+		"suffix": "团队成员",
+        "only": false,
+		"color": "#fff",
+		"ext": "png"
+	},
+	"2023yaoxiu": {
+		"year": 2023,
+		"prefix": "{server}",
+		"ranking": [
+			[0, 30, "首席"],
+			[30, 9999, "第{ranking}号"]
+		],
+		"suffix": "妖秀",
+        "only": false,
+		"color": "#6a0021",
+		"ext": "png"
+	},
+	"2023yaoxiu_mall1": {
+		"year": 2023,
+		"prefix": "魔盒",
+		"ranking": [],
+		"suffix": "云端伪妖秀",
+        "only": false,
+		"color": "#6a0021",
+		"ext": "png"
+	},
+	"2023yaoxiu_mall2": {
+		"year": 2023,
+		"prefix": "魔盒",
+		"ranking": [],
+		"suffix": "云端真妖秀",
+        "only": false,
+		"color": "#6a0021",
+		"ext": "png"
+	},
+	"wldgdbm": {
+		"year": 2023,
+		"prefix": "魔盒",
+		"ranking": [],
+		"suffix": "万灵当歌数据大师",
+        "only": false,
+		"color": "#fff",
+		"ext": "png"
+	},
+	"2023fengyuelu": {
+		"year": 2023,
+		"prefix": "",
+		"ranking": [],
+		"suffix": "风月无情人有心",
+		"only": true,
+		"color": "#fff",
+		"ext": "png"
+	}
 }
