@@ -41,5 +41,13 @@
         "suffix": "万灵当歌数据大师",
         "color":"#6a0021",
         "ext":"png"
+    },
+    "2023fengyuelu": {
+        "year": 2023,
+        "prefix": "魔盒",
+        "ranking": [],
+        "suffix": "茶馆风月录",
+        "color":"#6a0021",
+        "ext":"png"
     }
 }
